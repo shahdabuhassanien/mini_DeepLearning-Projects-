@@ -8,7 +8,7 @@ This repository contains three Deep Learning mini-projects. Each project focuses
 
 | Project | Type | Description |
 |--------|------|-------------|
-| [Regression Model](./Regression Models In kerasR/README.md) | Regression | Predicts continuous values (e.g., fuel consumption in MPG) using a neural network. |
+| [Regression Model](./Regression20%Models20%In20%kerasR/README.md) | Regression | Predicts continuous values (e.g., fuel consumption in MPG) using a neural network. |
 | [Binary Classification](./Binary-Classification-Project/README.md) | Binary Classification | Classifies data into two categories (e.g., predicting yes/no outcomes). |
 | [Multiclass Classification](./Multiclass-Classification-Project/README.md) | Multiclass Classification | Classifies data into more than two categories (e.g., digits 0–9, types of animals). |
 
