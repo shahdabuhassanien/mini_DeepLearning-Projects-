@@ -1,6 +1,7 @@
 # mini_DeepLearning-Projects-
+Author :Shahd Adnan Abu Hassanien
+
 ## Deep Learning Projects Collection
-Author :Shahd Adnan Abu Hassanien 
 This repository contains three Deep Learning mini-projects. Each project focuses on a different type of supervised learning task using neural networks:
 
 ## 🔹 Projects Overview
