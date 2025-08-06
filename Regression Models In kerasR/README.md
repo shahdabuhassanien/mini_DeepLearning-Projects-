@@ -28,3 +28,14 @@ Target variable: City-cycle fuel consumption in miles per gallon (mpg)
 
 4. **Evaluation**  
    - Evaluated the trained model using appropriate regression metrics to assess its predictive performance on unseen data.
+  
+
+
+## Results : 
+
+<img width="590" height="1190" alt="image" src="https://github.com/user-attachments/assets/457de8a6-cb54-4b9e-89e8-7a98bdf1d275" />
+
+### Loss Curve During Training:  
+
+This plot shows the training and validation loss across epochs. Both losses decrease consistently, indicating that the model is learning well and generalizing properly to unseen data. The closeness between the training and validation loss curves suggests that the model is not overfitting, and the training process is stable
+
