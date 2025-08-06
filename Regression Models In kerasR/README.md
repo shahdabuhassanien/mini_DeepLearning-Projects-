@@ -1,5 +1,6 @@
 # Predicting City-Cycle Fuel Consumption Using Vehicle Attributes
 
+Author: Shahd Abu Hassanien 
 
 ## Business Problem : 
 How can we accurately predict a vehicle’s fuel consumption (in miles per gallon) based on its characteristics?
